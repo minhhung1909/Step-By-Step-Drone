@@ -412,6 +412,22 @@
     [
       "66ec60ca-6d64-4483-97f1-d2d066c965b7",
       "Root"
+    ],
+    [
+      "d888617b-5959-46d9-be6b-4afc17519d82",
+      "Power"
+    ],
+    [
+      "9bfba7c7-25d8-4f24-9954-d47ed221637e",
+      "MCU Section"
+    ],
+    [
+      "a3efd6b8-4fcd-4591-95ab-0bc4985f625a",
+      "Gate Driver and 3PH Inverter Bridge"
+    ],
+    [
+      "18c0b3d2-ab07-4f59-a5e8-c8e92506e80c",
+      "Addition"
     ]
   ],
   "text_variables": {}
