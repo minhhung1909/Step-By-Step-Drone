@@ -3461,7 +3461,7 @@
 			(uuid "6359c506-412e-4965-b902-d50e03a25d96")
 		)
 		(instances
-			(project ""
+			(project "ESC_3S"
 				(path "/66ec60ca-6d64-4483-97f1-d2d066c965b7/d888617b-5959-46d9-be6b-4afc17519d82"
 					(reference "#PWR025")
 					(unit 1)
@@ -4016,7 +4016,7 @@
 			(uuid "42735bf0-4c6b-4b1a-9438-8f4e06645a7d")
 		)
 		(instances
-			(project ""
+			(project "ESC_3S"
 				(path "/66ec60ca-6d64-4483-97f1-d2d066c965b7/d888617b-5959-46d9-be6b-4afc17519d82"
 					(reference "J3")
 					(unit 1)
@@ -4224,7 +4224,7 @@
 			(uuid "2338b6f3-335a-45cd-97bf-55f75b39e84c")
 		)
 		(instances
-			(project ""
+			(project "ESC_3S"
 				(path "/66ec60ca-6d64-4483-97f1-d2d066c965b7/d888617b-5959-46d9-be6b-4afc17519d82"
 					(reference "L1")
 					(unit 1)
@@ -4648,7 +4648,7 @@
 			(uuid "01dabfb0-140e-4a4c-a2bc-50021e874fcd")
 		)
 		(instances
-			(project ""
+			(project "ESC_3S"
 				(path "/66ec60ca-6d64-4483-97f1-d2d066c965b7/d888617b-5959-46d9-be6b-4afc17519d82"
 					(reference "D1")
 					(unit 1)
@@ -4783,7 +4783,7 @@
 			(uuid "3ec86e96-6ee0-45d1-924d-2d27116903ea")
 		)
 		(instances
-			(project ""
+			(project "ESC_3S"
 				(path "/66ec60ca-6d64-4483-97f1-d2d066c965b7/d888617b-5959-46d9-be6b-4afc17519d82"
 					(reference "J2")
 					(unit 1)
@@ -5187,7 +5187,7 @@
 			(uuid "c63ae2b0-7f0b-4be6-b187-e2d433085567")
 		)
 		(instances
-			(project ""
+			(project "ESC_3S"
 				(path "/66ec60ca-6d64-4483-97f1-d2d066c965b7/d888617b-5959-46d9-be6b-4afc17519d82"
 					(reference "#PWR026")
 					(unit 1)
@@ -5459,7 +5459,7 @@
 			(uuid "ab84485b-0d83-4e13-a121-aad11414fe17")
 		)
 		(instances
-			(project ""
+			(project "ESC_3S"
 				(path "/66ec60ca-6d64-4483-97f1-d2d066c965b7/d888617b-5959-46d9-be6b-4afc17519d82"
 					(reference "#PWR03")
 					(unit 1)
@@ -5529,7 +5529,7 @@
 			(uuid "17ebd60b-36ed-4ea5-918b-66ee1e0795fc")
 		)
 		(instances
-			(project ""
+			(project "ESC_3S"
 				(path "/66ec60ca-6d64-4483-97f1-d2d066c965b7/d888617b-5959-46d9-be6b-4afc17519d82"
 					(reference "C22")
 					(unit 1)
