@@ -5926,7 +5926,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.001R"
+		(property "Value" "0.003R"
 			(at 139.446 45.974 0)
 			(effects
 				(font
@@ -8600,7 +8600,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.001R"
+		(property "Value" "0.003R"
 			(at 121.412 45.72 0)
 			(effects
 				(font
@@ -10801,7 +10801,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.001R"
+		(property "Value" "0.003R"
 			(at 157.734 45.72 0)
 			(effects
 				(font
